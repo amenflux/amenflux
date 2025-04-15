@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'a Amen👋</h1>
+<h1 align="center">Hi there, I'm Amen👋</h1>
 
 ###
 
@@ -49,10 +49,10 @@
   ###
 <br>
 <h3 align="left">⚙️ DevOps Expertise</h3><br>
-•	🔧 DevOps Orchestration & Provisioning Expert – From infrastructure-as-code to fully automated environments, I architect and implement scalable, maintainable systems with precision.<br><br>	•	🚀 CI/CD Specialist – I streamline release cycles, automate testing and deployments, and ensure that software flows seamlessly from development to production.<br><br>	•	☁️ Cloud-native and Tool-savvy – Whether it’s Kubernetes, Terraform, Helm, or Jenkins/GitHub Actions, I bring modern DevOps tools to life.<br><br>
+•	🔧 DevOps Orchestration & Provisioning Expert – From infrastructure-as-code to fully automated environments, I architect and implement scalable, maintainable systems.<br><br>	•	🚀 CI/CD Specialist – I streamline release cycles, automate testing and deployments, and ensure that software flows seamlessly from development to production.<br><br>	•	☁️ Cloud-native and Tool-savvy – Whether it’s Kubernetes, Terraform, Helm, or Jenkins/GitHub Actions, I bring modern DevOps tools to life.<br><br>
 
 <h3 align="left">💼 Business-Driven Tech Leadership</h3><br>
-What sets me apart?<br><br>	•	💡 Business Acumen – As a former CFO, I understand KPIs, ROIs, cost control, and business impact. My DevOps work is always aligned with strategic goals.<br><br>	•	👥 People & Process Management – Years of managing diverse teams taught me how to plan, lead, and scale initiatives effectively.<br><br>	•	💬 Exceptional Communicator & Planner – I bridge the gap between business and engineering teams with clarity, empathy, and efficiency.<br><br>
+What sets me apart?<br><br>	•	💡 Business Acumen – As a former CFO, I understand KPIs, ROIs, cost control, and business impact. My DevOps work is always aligned with strategic goals.<br><br>	•	👥 People & Process Management – Years of managing diverse teams taught me how to plan, lead, and scale initiatives effectively.<br><br>	•	💬 Exceptional Communicator & Planner – I bridge the gap between business and engineering teams with clarity, empathy, and efficiency.<br><br> •	📈 Agile Enthusiast & Methodology Expert – Skilled in Scrum, Agile, and Lean Six Sigma, I bring structured, efficient workflows to DevOps, ensuring continuous improvement and seamless collaboration across teams.<br><br>
 
 <h3 align="left">🎯 My Value</h3><br>
 I don’t just build pipelines — I build bridges between business goals and technical execution.<br><br>Whether you need to:<br><br>	•	Launch reliable, scalable infrastructure<br><br>	•	Implement CI/CD the right way<br><br>	•	Align DevOps workflows with your business goals<br><br>	•	Improve collaboration across your org<br><br>
