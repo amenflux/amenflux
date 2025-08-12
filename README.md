@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’m not your typical DevOps engineer — I’m a former CFO who transitioned into the world of DevOps engineering out of a deep passion for technology, automation, and delivering impact at scale.<br><br>With years of executive and team leadership experience, I’ve led financial organizations, driven cross-functional strategies, and managed high-performing teams. Now, I bring that same strategic thinking and executional sharpness into cloud infrastructure, CI/CD, orchestration, and automation.
+<p align="left">I’m not your typical DevOps engineer. I’m a former CFO who transitioned into the world of DevOps engineering out of a deep passion for technology, automation, and delivering impact at scale.<br><br>With years of executive and team leadership experience, I’ve led financial organizations, driven cross-functional strategies, and managed high-performing teams. Now, I bring that same strategic thinking and executional sharpness into cloud infrastructure, CI/CD, orchestration, and automation.
   
   ###
 <br>
